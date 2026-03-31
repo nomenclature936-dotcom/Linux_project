@@ -1,7 +1,7 @@
 # Open Source Audit - Git
 
-**Student Name:** Ankshit  
-**Registration Number:** 24BCE10454 
+**Student Name:** Harsh  
+**Registration Number:** 24BCE10868
 **Course:** Open Source Software  
 **Software Chosen:** Git  
 
